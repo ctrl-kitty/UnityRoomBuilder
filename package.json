@@ -1,0 +1,9 @@
+{
+  "name": "com.ctrlkitty.roombuilder",
+  "version": "0.0.2",
+  "displayName": "Room Builder",
+  "description": "Tool for creating rooms with windows and doors",
+  "author": {
+    "name": "ctrlkitty"
+  }
+}
