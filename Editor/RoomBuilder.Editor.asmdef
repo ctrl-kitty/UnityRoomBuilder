@@ -1,7 +1,11 @@
 {
   "name": "RoomBuilderTool.Editor",
+  "rootNamespace": "RoomBuilderTool.Editor",
   "references": [
     "RoomBuilderTool.Runtime"
   ],
-  "includePlatforms": ["Editor"]
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
 }

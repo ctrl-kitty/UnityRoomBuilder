@@ -1,3 +1,5 @@
 {
-  "name": "RoomBuilderTool.Runtime"
+  "name": "RoomBuilderTool.Runtime",
+  "rootNamespace": "RoomBuilderTool",
+  "autoReferenced": true
 }
